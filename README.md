@@ -1,2 +1,5 @@
 # zero-squad-logo
-Zero Squad Logo
+
+Has not been vectored yet.
+
+![logo](./logo.png)
